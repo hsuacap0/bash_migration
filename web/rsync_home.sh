@@ -1,5 +1,5 @@
 #!/bin/bash
-##RUN THIS FROM SOURCE SERVER (PULLING)
+##RUN THIS FROM DESTINATION SERVER (PULLING)
 #set -x
 source_server="xxx"
 ssh_key="xxx"
